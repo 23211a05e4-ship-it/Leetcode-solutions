@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
