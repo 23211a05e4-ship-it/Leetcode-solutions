@@ -1,25 +1,23 @@
 class Solution {
 public:
     vector<vector<int>>ans;
-    void sol(vector<int>v,int k,int n,vector<int>temp,int idx,int sum,int cnt)
+    void sol(vector<int>&v,int k,int n,vector<int>&temp,int idx,int sum,int cnt)
     {
-        if(k == cnt)
-        {
-            if(sum == n) 
-            {
+        if (sum > n || cnt > k)
+            return;
+
+        if (cnt == k) {
+            if (sum == n)
                 ans.push_back(temp);
-                return;
-            }
             return;
         }
-        if(idx < 9){
+
+        if (idx == 9)
+            return;
         temp.push_back(v[idx]);
         sol(v,k,n,temp,idx+1,sum+v[idx],cnt+1);
         temp.pop_back();
         sol(v,k,n,temp,idx+1,sum,cnt);
-        }
-        return;
-
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<int>v(9),temp;
