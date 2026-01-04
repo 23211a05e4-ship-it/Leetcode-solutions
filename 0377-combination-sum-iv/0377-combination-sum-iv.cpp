@@ -1,21 +1,16 @@
 class Solution {
 public:
-    int ans(vector<int>& nums,vector<int>&dp,int sum,int target)
-    {
-        if(sum > target)  return 0;
-        if(sum == target) return 1;
-        if(dp[sum] == -1) 
-        {
-            int cnt = 0;
-            for (int i = 0; i < nums.size(); i++) {
-                cnt += ans(nums,dp,sum + nums[i], target);
+    int combinationSum4(std::vector<int>& nums, int target) {
+        std::vector<unsigned int> dp(target + 1, 0);
+        dp[0] = 1;
+        for (int i = 1; i <= target; ++i) {
+            for (int num : nums) {
+                if (i - num >= 0) {
+                    dp[i] += dp[i - num];
+                }
             }
-            dp[sum] = cnt;
         }
-        return dp[sum];
-    }
-    int combinationSum4(vector<int>& nums, int target) {
-        vector<int>dp(target+1,-1);
-        return ans(nums,dp,0,target);
+        
+        return dp[target];
     }
 };
