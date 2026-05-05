@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0216-combination-sum-iii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
