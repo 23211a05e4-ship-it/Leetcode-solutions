@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0061-rotate-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
