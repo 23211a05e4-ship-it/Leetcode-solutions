@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0120-triangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
