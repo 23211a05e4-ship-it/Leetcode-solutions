@@ -98,5 +98,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
