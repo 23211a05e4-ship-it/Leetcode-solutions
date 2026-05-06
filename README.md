@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1390-four-divisors](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
