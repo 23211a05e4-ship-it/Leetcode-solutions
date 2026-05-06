@@ -16,8 +16,8 @@ public:
         for(int i = 0; i < n; i++) {
             mini = min(mini, arr[i]);
             mp = max(mp, arr[i] - mini);
-            sum = mp;
             if(i + 1 < n) sum = mp + suf[i+1];
+            else sum = mp;
             msum = max(msum, sum);
         }
         return msum;
