@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
 | ------- |
