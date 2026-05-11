@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [2553-separate-the-digits-in-an-array](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
