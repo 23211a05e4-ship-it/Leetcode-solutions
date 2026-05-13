@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Breadth-First Search
 |  |
