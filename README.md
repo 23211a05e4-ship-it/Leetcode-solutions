@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
