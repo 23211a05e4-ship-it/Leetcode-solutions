@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
