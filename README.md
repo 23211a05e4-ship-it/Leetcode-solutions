@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
 |  |
 | ------- |
