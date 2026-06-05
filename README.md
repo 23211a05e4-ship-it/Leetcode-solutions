@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 ## Sliding Window
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
