@@ -14,7 +14,6 @@ public:
                 j--;
             }
         }
-        for(int i : v) cout << i << " ";
         return v;
     }
 };
