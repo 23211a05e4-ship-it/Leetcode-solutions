@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,8 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
