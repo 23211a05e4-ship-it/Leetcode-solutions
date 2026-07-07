@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
