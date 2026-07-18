@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
