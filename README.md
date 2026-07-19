@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
 |  |
