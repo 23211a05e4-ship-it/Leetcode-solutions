@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
