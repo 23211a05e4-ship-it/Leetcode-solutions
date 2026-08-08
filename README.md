@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
