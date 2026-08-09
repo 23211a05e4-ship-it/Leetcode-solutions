@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [2784-check-if-array-is-good](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1861-rotating-the-box](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Database
 |  |
@@ -297,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
