@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1043-partition-array-for-maximum-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1043-partition-array-for-maximum-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
