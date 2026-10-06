@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1642-furthest-building-you-can-reach](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23211a05e4-ship-it/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
